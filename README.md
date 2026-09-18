@@ -45,11 +45,7 @@ Realiza el análisis general de los datos. Sus principales funciones son:
 * Cargar la tabla de abundancias en formato BIOM.
 * Cargar los metadatos de las muestras.
 * Identificar las muestras comunes entre ambos conjuntos de datos.
-* Calcular el número total de lecturas por muestra.
-* Calcular la **diversidad de Shannon**.
-* Calcular la **diversidad beta mediante Bray-Curtis**.
-* Realizar un análisis de ordenación **PCoA**.
-* Generar una representación gráfica de la PCoA.
+* Calcular las diversidades
 * Exportar los datos procesados en archivos CSV.
 
 ### `agp_extract_columns.py`
